@@ -1,0 +1,98 @@
+@media (max-width: 991.98px) {
+
+    .principal{
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    main{
+        background: url('../images/bg-hero-mobile.svg');
+        background-color: #d1f2ff;
+    }
+
+    header button{
+        width: 140px;
+        height: 30px;
+    }
+
+    #brand img{
+        height: 25px;
+    }
+
+    .get-started-button{
+        width: 280px;
+        height: 45px;
+    }
+
+    #geral-apresentation-box{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #geral-apresentation-box article img{
+        height: 200px;
+        margin-top: 50px;
+    }
+
+    #apresentation-box{
+        margin-top: 30px;
+    }
+
+    #apresentation-box h1{
+        font-size: 0.9em;
+    }
+
+    #reasons-box article, .revert{
+        flex-direction: column-reverse;
+    }
+
+    .reason-description {
+        width: 100%;
+        text-align: center;
+    }
+
+    #reasons-box article img{
+        max-height: 200px;
+        margin-bottom: 30px;
+    }
+
+    #ready-box{
+        max-width: 400px;
+        text-align: center;
+    }
+
+    #ready-box button{
+        width: 250px;
+        height: 50px;
+    }
+
+    #ready-box h1{
+        font-size: 1.3em;
+    }
+
+    #footer-informations{
+        flex-direction: column;
+    }
+
+    #footer-contact{
+        margin-bottom: 20px;
+    }
+
+    .contact{
+        width: 300px;
+    }
+
+    #footer-abouts{
+        flex-direction: column;
+        margin-bottom: 30px;
+    }
+
+    #footer-social{
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    #footer-social p{
+        margin-top: 20px;
+    }
+}
